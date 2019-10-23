@@ -3,7 +3,9 @@
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="LeetCode" t="IncludeRecursive">
+        <e p="Atoi.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="FindTwoSortedArrayMidNumber.cs" t="Include" />
         <e p="LeetCode.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -13,6 +15,7 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="Utility.cs" t="Include" />
       </e>
       <e p="LeetCode.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
