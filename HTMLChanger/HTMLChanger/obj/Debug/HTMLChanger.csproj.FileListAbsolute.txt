@@ -1,0 +1,5 @@
+/Users/buddy/LeetCode/HTMLChanger/HTMLChanger/bin/Debug/HTMLChanger.exe
+/Users/buddy/LeetCode/HTMLChanger/HTMLChanger/bin/Debug/HTMLChanger.pdb
+/Users/buddy/LeetCode/HTMLChanger/HTMLChanger/obj/Debug/HTMLChanger.csprojAssemblyReference.cache
+/Users/buddy/LeetCode/HTMLChanger/HTMLChanger/obj/Debug/HTMLChanger.exe
+/Users/buddy/LeetCode/HTMLChanger/HTMLChanger/obj/Debug/HTMLChanger.pdb

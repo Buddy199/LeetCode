@@ -6,7 +6,18 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            Utility.RomanToInt("MCMXCIV");
+            var a  = new A();
+            var ty = a.GetType();
+            var b = (int) ty.GetField("B").GetValue(a);
+            var c = (string) ty.GetField("C").GetValue(a);
+            var d = ty.GetField("D")?.GetValue(a);
+            Console.WriteLine(a);
         }
+    }
+
+    class A
+    {
+        public int B;
+        public string C;
     }
 }
