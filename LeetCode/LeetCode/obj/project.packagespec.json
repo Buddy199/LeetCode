@@ -10,13 +10,13 @@
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
-      "netcoreapp2.2"
+      "netstandard2.0"
     ],
     "sources": {
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
-      "netcoreapp2.2": {
+      "netstandard2.0": {
         "projectReferences": {}
       }
     },
@@ -27,12 +27,16 @@
     }
   },
   "frameworks": {
-    "netcoreapp2.2": {
+    "netstandard2.0": {
       "dependencies": {
-        "Microsoft.NETCore.App": {
+        "EPPlus": {
+          "target": "Package",
+          "version": "[5.2.0, )"
+        },
+        "NETStandard.Library": {
           "suppressParent": "All",
           "target": "Package",
-          "version": "[2.2.0, )",
+          "version": "[2.0.3, )",
           "autoReferenced": true
         }
       },

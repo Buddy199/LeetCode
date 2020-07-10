@@ -1,0 +1,8 @@
+/Users/buddy/LeetCode/LeetCode/LeetCode/bin/Debug/netstandard2.0/LeetCode.deps.json
+/Users/buddy/LeetCode/LeetCode/LeetCode/bin/Debug/netstandard2.0/LeetCode.dll
+/Users/buddy/LeetCode/LeetCode/LeetCode/bin/Debug/netstandard2.0/LeetCode.pdb
+/Users/buddy/LeetCode/LeetCode/LeetCode/obj/Debug/netstandard2.0/LeetCode.csprojAssemblyReference.cache
+/Users/buddy/LeetCode/LeetCode/LeetCode/obj/Debug/netstandard2.0/LeetCode.AssemblyInfoInputs.cache
+/Users/buddy/LeetCode/LeetCode/LeetCode/obj/Debug/netstandard2.0/LeetCode.AssemblyInfo.cs
+/Users/buddy/LeetCode/LeetCode/LeetCode/obj/Debug/netstandard2.0/LeetCode.dll
+/Users/buddy/LeetCode/LeetCode/LeetCode/obj/Debug/netstandard2.0/LeetCode.pdb
