@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96f7bf7d-3595-4642-87c9-dc95be6378a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCode/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCode/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/LeetCode.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/LeetCode.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/obj/LeetCode.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/obj/LeetCode.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/obj/LeetCode.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/obj/LeetCode.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/obj/LeetCode.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/obj/LeetCode.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/obj/Debug/netstandard2.0/LeetCode.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/obj/Debug/netstandard2.0/LeetCode.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -30,6 +22,38 @@
                 <marker date="1591169454612" expanded="true" signature="53:389" ph="{...}" />
                 <marker date="1591169454612" expanded="true" signature="99:383" ph="{...}" />
                 <marker date="1591169454612" expanded="true" signature="402:461" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/TraversalBinaryTree.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <folding>
+                <marker date="1595756307682" expanded="true" signature="6:52" ph="..." />
+                <marker date="1595756307682" expanded="true" signature="72:2648" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="111:2449" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="176:814" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="256:313" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="435:778" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="565:645" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="685:764" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="873:1498" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="953:1010" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="1177:1462" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="1228:1340" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="1559:2443" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="1639:1696" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="1818:2407" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="1906:2289" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="2044:2136" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="2180:2271" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="2310:2393" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="2476:2646" ph="{...}" />
+                <marker date="1595756307682" expanded="true" signature="2599:2640" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -55,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/SensitiveService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="120">
               <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <marker date="1578569667183" expanded="true" signature="6:52" ph="..." />
@@ -106,6 +130,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/LeetCode/SensitiveService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LeetCode/Leet1051-HeightChecker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LeetCode/TraversalBinaryTree.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9AEDA1EA-7722-4CA6-A7CA-C000AF27DEC0/81/97088bfb/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LeetCode/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LeetCode/Utility.cs" root0="FORCE_HIGHLIGHTING" />
@@ -120,39 +145,22 @@
         <option value="$PROJECT_DIR$/LeetCode/Leet1051-HeightChecker.cs" />
         <option value="$PROJECT_DIR$/LeetCode/MissingNumber.cs" />
         <option value="$PROJECT_DIR$/LeetCode/Program.cs" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/../EPPlus/src/.idea/.idea.EPPlus/riderModule.iml" />
+        <option value="$PROJECT_DIR$/LeetCode/TraversalBinaryTree.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1920" />
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="988" />
+    <option name="x" value="366" />
+    <option name="y" value="316" />
+    <option name="width" value="1440" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="AssemblyExplorer" proportions="" version="1">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="5427d58d:AssemblyExplorerRootNode" />
-              <item name="EPPlus (5.2.0.0, msil, .NETStandard v2.0)" type="5e97225f:AssemblyExplorerNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
@@ -166,41 +174,12 @@
               <item name="LeetCode" type="24d0babc:SolutionExplorerModelNode" />
               <item name="LeetCode" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="LeetCode" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="LeetCode" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="LeetCode" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="LeetCode" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-              <item name=".NETStandard 2.0" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="LeetCode" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="LeetCode" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-              <item name=".NETStandard 2.0" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Packages" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="LeetCode" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="LeetCode" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
-              <item name=".NETStandard 2.0" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Packages" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="EPPlus/5.2.0" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -215,6 +194,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -265,11 +245,12 @@
       <workItem from="1591169264802" duration="190000" />
       <workItem from="1594345708716" duration="67000" />
       <workItem from="1594346029653" duration="660000" />
+      <workItem from="1595755561999" duration="845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6792000" />
+    <option name="totallyTimeSpent" value="7637000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -281,10 +262,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="23" width="1920" height="988" extended-state="0" />
+    <frame x="220" y="151" width="1440" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2657082" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26967096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -294,7 +275,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" visible="true" weight="0.32924107" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32924107" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -403,7 +384,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/SensitiveService.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="120">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <marker date="1578569667183" expanded="true" signature="6:52" ph="..." />
@@ -439,6 +420,36 @@
             <marker date="1571796908277" expanded="true" signature="681:1048" ph="{...}" />
             <marker date="1571796908277" expanded="true" signature="773:893" ph="{...}" />
             <marker date="1571796908277" expanded="true" signature="914:1034" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/TraversalBinaryTree.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <marker date="1595756307682" expanded="true" signature="6:52" ph="..." />
+            <marker date="1595756307682" expanded="true" signature="72:2648" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="111:2449" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="176:814" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="256:313" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="435:778" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="565:645" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="685:764" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="873:1498" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="953:1010" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="1177:1462" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="1228:1340" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="1559:2443" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="1639:1696" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="1818:2407" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="1906:2289" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="2044:2136" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="2180:2271" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="2310:2393" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="2476:2646" ph="{...}" />
+            <marker date="1595756307682" expanded="true" signature="2599:2640" ph="{...}" />
           </folding>
         </state>
       </provider>
