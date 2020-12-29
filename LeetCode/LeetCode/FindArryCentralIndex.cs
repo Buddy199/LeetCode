@@ -24,5 +24,26 @@ namespace LeetCode
         
             return -1;
         }
+        
+        //寻找合适的插入索引
+        public int SearchInsert(int[] nums, int target) {
+            var length = nums.Length;
+            var left = 0;
+            var right = length - 1;
+            while(left<=right)
+            {
+                var mid = (left + right)/2;
+                if(target > nums[mid])
+                {
+                    left = mid+1;
+                }
+                else
+                {
+                    right = mid - 1;
+                }
+            }
+
+            return left;
+        }
     }
 }

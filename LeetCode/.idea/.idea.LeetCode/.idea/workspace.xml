@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96f7bf7d-3595-4642-87c9-dc95be6378a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/LeetCode/obj/Debug/netstandard2.0/LeetCode.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/obj/Debug/netstandard2.0/LeetCode.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/QuickSort.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/FindArryCentralIndex.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/FindArryCentralIndex.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/bin/Debug/netstandard2.0/LeetCode.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/bin/Debug/netstandard2.0/LeetCode.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/bin/Debug/netstandard2.0/LeetCode.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/bin/Debug/netstandard2.0/LeetCode.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/bin/Debug/netstandard2.0/LeetCode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/bin/Debug/netstandard2.0/LeetCode.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/obj/Debug/netstandard2.0/LeetCode.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/obj/Debug/netstandard2.0/LeetCode.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/obj/Debug/netstandard2.0/LeetCode.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/obj/Debug/netstandard2.0/LeetCode.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,111 +20,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LeetCode/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
               <folding>
-                <marker date="1591169454612" expanded="true" signature="33:463" ph="{...}" />
-                <marker date="1591169454612" expanded="true" signature="53:389" ph="{...}" />
-                <marker date="1591169454612" expanded="true" signature="99:383" ph="{...}" />
-                <marker date="1591169454612" expanded="true" signature="402:461" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/TraversalBinaryTree.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-              <folding>
-                <marker date="1595756307682" expanded="true" signature="6:52" ph="..." />
-                <marker date="1595756307682" expanded="true" signature="72:2648" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="111:2449" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="176:814" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="256:313" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="435:778" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="565:645" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="685:764" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="873:1498" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="953:1010" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="1177:1462" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="1228:1340" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="1559:2443" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="1639:1696" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="1818:2407" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="1906:2289" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="2044:2136" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="2180:2271" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="2310:2393" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="2476:2646" ph="{...}" />
-                <marker date="1595756307682" expanded="true" signature="2599:2640" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/MissingNumber.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding>
-                <marker date="1591149660352" expanded="true" signature="18:511" ph="{...}" />
-                <marker date="1591149660352" expanded="true" signature="51:509" ph="{...}" />
-                <marker date="1591149660352" expanded="true" signature="103:503" ph="{...}" />
-                <marker date="1591149660352" expanded="true" signature="201:292" ph="{...}" />
-                <marker date="1591149660352" expanded="true" signature="342:469" ph="{...}" />
-                <marker date="1591149660352" expanded="true" signature="389:455" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/SensitiveService.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <marker date="1578569667183" expanded="true" signature="6:52" ph="..." />
-                <marker date="1578569667183" expanded="true" signature="72:2645" ph="{...}" />
-                <marker date="1578569667183" expanded="true" signature="108:2643" ph="{...}" />
-                <marker date="1578569667183" expanded="true" signature="145:915" ph="{...}" />
-                <marker date="1578569667183" expanded="true" signature="361:433" ph="{...}" />
-                <marker date="1578569667183" expanded="true" signature="483:600" ph="{...}" />
-                <marker date="1578569667183" expanded="true" signature="645:691" ph="{...}" />
-                <marker date="1578569667183" expanded="true" signature="745:795" ph="{...}" />
-                <marker date="1578569667183" expanded="true" signature="850:905" ph="{...}" />
-                <marker date="1578569667183" expanded="true" signature="1024:1568" ph="{...}" />
-                <marker date="1578569667183" expanded="true" signature="1123:1558" ph="{...}" />
-                <marker date="1578569667183" expanded="true" signature="1261:1389" ph="{...}" />
-                <marker date="1578569667183" expanded="true" signature="1465:1544" ph="{...}" />
-                <marker date="1578569667183" expanded="true" signature="1629:2637" ph="{...}" />
-                <marker date="1578569667183" expanded="true" signature="1893:2520" ph="{...}" />
-                <marker date="1578569667183" expanded="true" signature="2078:2236" ph="{...}" />
-                <marker date="1578569667183" expanded="true" signature="2282:2425" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/Utility.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-              <folding>
-                <marker date="1571796908277" expanded="true" signature="53:1091" ph="{...}" />
-                <marker date="1571796908277" expanded="true" signature="87:1089" ph="{...}" />
-                <marker date="1571796908277" expanded="true" signature="140:1083" ph="{...}" />
-                <marker date="1571796908277" expanded="true" signature="238:611" ph="{...}" />
-                <marker date="1571796908277" expanded="true" signature="681:1048" ph="{...}" />
-                <marker date="1571796908277" expanded="true" signature="773:893" ph="{...}" />
-                <marker date="1571796908277" expanded="true" signature="914:1034" ph="{...}" />
+                <marker date="1609226544977" expanded="true" signature="33:450" ph="{...}" />
+                <marker date="1609226544977" expanded="true" signature="53:448" ph="{...}" />
+                <marker date="1609226544977" expanded="true" signature="99:442" ph="{...}" />
+                <marker date="1609226544977" expanded="true" signature="195:261" ph="{...}" />
+                <marker date="1609226544977" expanded="true" signature="363:432" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -129,12 +43,16 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/LeetCode/SensitiveService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LeetCode/Leet1051-HeightChecker.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LeetCode/TraversalBinaryTree.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9AEDA1EA-7722-4CA6-A7CA-C000AF27DEC0/81/97088bfb/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LeetCode/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LeetCode/Atoi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LeetCode/Leet1051-HeightChecker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LeetCode/FindArryCentralIndex.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LeetCode/FindTwoSortedArrayMidNumber.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LeetCode/Utility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LeetCode/QuickSort.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LeetCode/MissingNumber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LeetCode/TraversalBinaryTree.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -144,12 +62,14 @@
         <option value="$PROJECT_DIR$/LeetCode/SensitiveService.cs" />
         <option value="$PROJECT_DIR$/LeetCode/Leet1051-HeightChecker.cs" />
         <option value="$PROJECT_DIR$/LeetCode/MissingNumber.cs" />
-        <option value="$PROJECT_DIR$/LeetCode/Program.cs" />
         <option value="$PROJECT_DIR$/LeetCode/TraversalBinaryTree.cs" />
+        <option value="$PROJECT_DIR$/LeetCode/FindArryCentralIndex.cs" />
+        <option value="$PROJECT_DIR$/LeetCode/QuickSort.cs" />
+        <option value="$PROJECT_DIR$/LeetCode/Program.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="366" />
     <option name="y" value="316" />
     <option name="width" value="1440" />
@@ -246,11 +166,13 @@
       <workItem from="1594345708716" duration="67000" />
       <workItem from="1594346029653" duration="660000" />
       <workItem from="1595755561999" duration="845000" />
+      <workItem from="1598094569057" duration="548000" />
+      <workItem from="1609225834656" duration="1240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7637000" />
+    <option name="totallyTimeSpent" value="9425000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -262,10 +184,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="220" y="151" width="1440" height="738" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="979" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26967096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20607029" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -282,7 +204,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" order="14" visible="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Build" order="14" visible="true" weight="0.32807216" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -336,43 +258,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/Leet1051-HeightChecker.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding>
-            <marker date="1591148363606" expanded="true" signature="18:1008" ph="{...}" />
-            <marker date="1591148363606" expanded="true" signature="60:1006" ph="{...}" />
-            <marker date="1591148363606" expanded="true" signature="114:1000" ph="{...}" />
-            <marker date="1591148363606" expanded="true" signature="231:303" ph="{...}" />
-            <marker date="1591148363606" expanded="true" signature="369:740" ph="{...}" />
-            <marker date="1591148363606" expanded="true" signature="448:726" ph="{...}" />
-            <marker date="1591148363606" expanded="true" signature="517:708" ph="{...}" />
-            <marker date="1591148363606" expanded="true" signature="823:964" ph="{...}" />
-            <marker date="1591148363606" expanded="true" signature="886:950" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding>
-            <marker date="1591169454612" expanded="true" signature="33:463" ph="{...}" />
-            <marker date="1591169454612" expanded="true" signature="53:389" ph="{...}" />
-            <marker date="1591169454612" expanded="true" signature="99:383" ph="{...}" />
-            <marker date="1591169454612" expanded="true" signature="402:461" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/MissingNumber.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
-            <marker date="1591149660352" expanded="true" signature="18:511" ph="{...}" />
             <marker date="1591149660352" expanded="true" signature="51:509" ph="{...}" />
             <marker date="1591149660352" expanded="true" signature="103:503" ph="{...}" />
             <marker date="1591149660352" expanded="true" signature="201:292" ph="{...}" />
@@ -388,7 +278,6 @@
           <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <marker date="1578569667183" expanded="true" signature="6:52" ph="..." />
-            <marker date="1578569667183" expanded="true" signature="72:2645" ph="{...}" />
             <marker date="1578569667183" expanded="true" signature="108:2643" ph="{...}" />
             <marker date="1578569667183" expanded="true" signature="145:915" ph="{...}" />
             <marker date="1578569667183" expanded="true" signature="361:433" ph="{...}" />
@@ -408,10 +297,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Leet1051-HeightChecker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <marker date="1591148363606" expanded="true" signature="18:1008" ph="{...}" />
+            <marker date="1591148363606" expanded="true" signature="60:1006" ph="{...}" />
+            <marker date="1591148363606" expanded="true" signature="114:1000" ph="{...}" />
+            <marker date="1591148363606" expanded="true" signature="231:303" ph="{...}" />
+            <marker date="1591148363606" expanded="true" signature="369:740" ph="{...}" />
+            <marker date="1591148363606" expanded="true" signature="448:726" ph="{...}" />
+            <marker date="1591148363606" expanded="true" signature="517:708" ph="{...}" />
+            <marker date="1591148363606" expanded="true" signature="823:964" ph="{...}" />
+            <marker date="1591148363606" expanded="true" signature="886:950" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/Utility.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <marker date="1571796908277" expanded="true" signature="53:1091" ph="{...}" />
             <marker date="1571796908277" expanded="true" signature="87:1089" ph="{...}" />
@@ -426,8 +333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/TraversalBinaryTree.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="225">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
           <folding>
             <marker date="1595756307682" expanded="true" signature="6:52" ph="..." />
             <marker date="1595756307682" expanded="true" signature="72:2648" ph="{...}" />
@@ -450,6 +357,97 @@
             <marker date="1595756307682" expanded="true" signature="2310:2393" ph="{...}" />
             <marker date="1595756307682" expanded="true" signature="2476:2646" ph="{...}" />
             <marker date="1595756307682" expanded="true" signature="2599:2640" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/QuickSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <marker date="1609226355298" expanded="true" signature="18:1026" ph="{...}" />
+            <marker date="1609226355298" expanded="true" signature="47:1024" ph="{...}" />
+            <marker date="1609226355298" expanded="true" signature="129:411" ph="{...}" />
+            <marker date="1609226355298" expanded="true" signature="179:231" ph="{...}" />
+            <marker date="1609226355298" expanded="true" signature="491:1018" ph="{...}" />
+            <marker date="1609226355298" expanded="true" signature="639:892" ph="{...}" />
+            <marker date="1609226355298" expanded="true" signature="691:878" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Atoi.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <marker date="1571709674081" expanded="true" signature="44:1015" ph="{...}" />
+            <marker date="1571709674081" expanded="true" signature="75:1013" ph="{...}" />
+            <marker date="1571709674081" expanded="true" signature="126:1007" ph="{...}" />
+            <marker date="1571709674081" expanded="true" signature="265:314" ph="{...}" />
+            <marker date="1571709674081" expanded="true" signature="405:480" ph="{...}" />
+            <marker date="1571709674081" expanded="true" signature="516:590" ph="{...}" />
+            <marker date="1571709674081" expanded="true" signature="660:945" ph="{...}" />
+            <marker date="1571709674081" expanded="true" signature="771:931" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/FindArryCentralIndex.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
+          <folding>
+            <marker date="1598097278468" expanded="true" signature="18:1139" ph="{...}" />
+            <marker date="1598097278468" expanded="true" signature="25:74" ph="/// 寻找数组中心索引 ... " />
+            <marker date="1598097278468" expanded="true" signature="112:1137" ph="{...}" />
+            <marker date="1598097278468" expanded="true" signature="161:602" ph="{...}" />
+            <marker date="1598097278468" expanded="true" signature="265:326" ph="{...}" />
+            <marker date="1598097278468" expanded="true" signature="373:560" ph="{...}" />
+            <marker date="1598097278468" expanded="true" signature="443:509" ph="{...}" />
+            <marker date="1598097278468" expanded="true" signature="688:1131" ph="{...}" />
+            <marker date="1598097278468" expanded="true" signature="820:1095" ph="{...}" />
+            <marker date="1598097278468" expanded="true" signature="917:987" ph="{...}" />
+            <marker date="1598097278468" expanded="true" signature="1008:1081" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/FindTwoSortedArrayMidNumber.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-351">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <marker date="1571452522591" expanded="true" signature="0:254" ph="/* 寻找两个有序数组的中位数，第一个数组中有m个数，第二个数组中有n个数，假设两个数组不同时为空 ... */" />
+            <marker date="1571452522591" expanded="true" signature="300:2508" ph="{...}" />
+            <marker date="1571452522591" expanded="true" signature="347:2506" ph="{...}" />
+            <marker date="1571452522591" expanded="true" signature="431:1209" ph="{...}" />
+            <marker date="1571452522591" expanded="true" signature="534:705" ph="{...}" />
+            <marker date="1571452522591" expanded="true" signature="742:913" ph="{...}" />
+            <marker date="1571452522591" expanded="true" signature="979:1078" ph="{...}" />
+            <marker date="1571452522591" expanded="true" signature="1301:2500" ph="{...}" />
+            <marker date="1571452522591" expanded="true" signature="1391:1461" ph="{...}" />
+            <marker date="1571452522591" expanded="true" signature="1498:1568" ph="{...}" />
+            <marker date="1571452522591" expanded="true" signature="1643:1726" ph="{...}" />
+            <marker date="1571452522591" expanded="true" signature="1907:1981" ph="{...}" />
+            <marker date="1571452522591" expanded="true" signature="2029:2103" ph="{...}" />
+            <marker date="1571452522591" expanded="true" signature="2129:2281" ph="/* 如果a数组的第 k / 2 个数小于b数组的第 k / 2 个数，表示总的第 k 个数位于 a的第k / 2个数的后半段，或者是b的第 k / 2个数的前半段 ... */" />
+            <marker date="1571452522591" expanded="true" signature="2310:2415" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <marker date="1609226544977" expanded="true" signature="33:450" ph="{...}" />
+            <marker date="1609226544977" expanded="true" signature="53:448" ph="{...}" />
+            <marker date="1609226544977" expanded="true" signature="99:442" ph="{...}" />
+            <marker date="1609226544977" expanded="true" signature="195:261" ph="{...}" />
+            <marker date="1609226544977" expanded="true" signature="363:432" ph="{...}" />
           </folding>
         </state>
       </provider>
