@@ -1,0 +1,5 @@
+/Users/buddy/LeetCode/NewLeetCode/NewLeetCode/bin/Debug/NewLeetCode.exe
+/Users/buddy/LeetCode/NewLeetCode/NewLeetCode/bin/Debug/NewLeetCode.pdb
+/Users/buddy/LeetCode/NewLeetCode/NewLeetCode/obj/Debug/NewLeetCode.csprojAssemblyReference.cache
+/Users/buddy/LeetCode/NewLeetCode/NewLeetCode/obj/Debug/NewLeetCode.exe
+/Users/buddy/LeetCode/NewLeetCode/NewLeetCode/obj/Debug/NewLeetCode.pdb

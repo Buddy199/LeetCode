@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="NewLeetCode" t="IncludeRecursive">
+        <e p="Algorithm" t="Include">
+          <e p="Atoi.cs" t="Include" />
+          <e p="FindArryCentralIndex.cs" t="Include" />
+          <e p="FindTwoSortedArrayMidNumber.cs" t="Include" />
+          <e p="Leet1051-HeightChecker.cs" t="Include" />
+          <e p="MissingNumber.cs" t="Include" />
+          <e p="QuickSort.cs" t="Include" />
+          <e p="SensitiveService.cs" t="Include" />
+          <e p="TraversalBinaryTree.cs" t="Include" />
+          <e p="Utility.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="NewLeetCode.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="NewLeetCode.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_NewLeetCode.557048308.00" t="ExcludeRecursive" />
+  </component>
+</project>
